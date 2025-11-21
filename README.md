@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Student%20Admission%20Prediction-ML%20Project-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Data Analysis • Machine Learning • PCA • Model Comparison</b>
+</p>
+
 # 🎓 Student Admission Prediction using Machine Learning
 
 This project analyzes a student admission dataset and builds multiple machine-learning models to predict whether a student will be admitted based on academic scores, test results, and profile attributes.  
