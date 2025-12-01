@@ -76,7 +76,7 @@ Decision Tree
 
 Random Forest
 
-SVM
+KNN
 
 RandomizedSearchCV
 
